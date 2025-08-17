@@ -1,0 +1,87 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:wheat;
+    border: 1px solid aqua;
+    width: 1520px;
+    height: 40px;
+
+}
+
+
+.nav-list ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-list ul li{
+    list-style: none;
+    padding: 20px;
+} 
+.nav-list a{
+    text-decoration: none;
+}
+.logo{
+    margin-left: 40px;
+    font-size: larger;
+    
+    
+}
+
+  
+.co{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+}
+.box2 h3{
+    width: 500px;
+}
+.box2{
+    text-align: center;
+}
+.co2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+img{
+    height: 800px;
+    width: 100%;
+    margin-top: 5px;
+
+}
+hr{
+    width:700px;
+    text-align: center;
+}
+.pic{
+    width: 450px;
+    height: 450px;
+}
+input, textarea {
+width: 80%;
+height: 40px;
+font-size: 12px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding-left: 10px;
+}
+.co3{
+    margin-top: 80px;
+    margin-left: 270px;
+    margin-right: 150px;
+    align-items: center;
+}
+.my-button{
+    height: 40Px;
+    width: 200px;
+}
+
+
+
+   
